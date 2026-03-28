@@ -1,0 +1,16 @@
+{
+  "default_search_provider": {
+    "enabled": true,
+    "name": "Startpage",
+    "search_url": "https://www.startpage.com/search?q={searchTerms}",
+    "suggest_url": "",
+    "keyword": "startpage"
+  },
+  "default_search_provider_data": {
+    "template_url_data": {
+      "keyword": "startpage",
+      "short_name": "Startpage",
+      "url": "https://www.startpage.com/search?q={searchTerms}"
+    }
+  }
+}
